@@ -10,6 +10,10 @@ import random
 import json
 import pickle
 
+
+kk = "kushagra"
+beta = "gama"
+
 with open("intents.json") as file:
     data = json.load(file)
 
